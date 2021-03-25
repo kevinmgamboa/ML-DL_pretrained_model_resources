@@ -23,4 +23,4 @@ Do you want to add to this repo? Then Fork it and start a pull request. Or conta
 
 #### Others
 * OpenAI Stable Baselines: This set of improved implementations of Reinforcement Learning (RL) algorithms based on OpenAI Baselines [Github repository](https://github.com/hill-a/stable-baselines) 
-  * Collection of pretrained agents [RL Baselines Zoo](https://github.com/araffin/rl-baselines-zoo)
+  * Collection of 100+ pretrained agents [RL Baselines Zoo](https://github.com/araffin/rl-baselines-zoo)
