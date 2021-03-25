@@ -25,4 +25,4 @@ Do you want to add to this repo? Then Fork it and start a pull request. Or conta
 ### Simulator Environments
 * OpenAI Stable Baselines: This set of improved implementations of Reinforcement Learning (RL) algorithms based on OpenAI Baselines [Github repository](https://github.com/hill-a/stable-baselines) 
 * CARLA simulator for supporting development, training and validation of Autonomous driving systems [link](https://carla.org/)
- * Tutorial on installing Carla [link](https://www.youtube.com/watch?v=IlnayhRIL7g&t=43s)
+  *  Tutorial on installing Carla [link](https://www.youtube.com/watch?v=IlnayhRIL7g&t=43s)
