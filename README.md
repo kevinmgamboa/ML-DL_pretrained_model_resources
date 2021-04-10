@@ -20,6 +20,13 @@ Do you want to add to this repo? Then Fork it and start a pull request. Or conta
 * [Model Zoo](https://modelzoo.co/)
 * [TensorFlow 2 Detection Model Zoo](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md)
 * Collection of 100+ pretrained agents [RL Baselines Zoo](https://github.com/araffin/rl-baselines-zoo)
+* TensorRT integration for Low latency Inference [Tensorflow Blog](https://blog.tensorflow.org/2021/01/leveraging-tensorflow-tensorrt-integration.html)
+
+
+### Optimizing Trained Models
+* TensorFlow models accelerated with NVIDIA TensorRT - [link](https://github.com/NVIDIA-AI-IOT/tf_to_trt_image_classification?nvid=nv-int-jnwrtwtttwhjn-33356)
+* PyTorch to TensorRT converter which utilizes the TensorRT Python API [Torch2trt](https://github.com/NVIDIA-AI-IOT/torch2trt)
+* TensorFlow image classification and object detection models on NVIDIA Jetson - [link](https://github.com/NVIDIA-AI-IOT/tf_trt_models)
 
 
 ### Simulator Environments
